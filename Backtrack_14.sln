@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtrack_14", "Backtrack_14\Backtrack_14.csproj", "{DF1F1EAF-4D1D-4200-B264-35A4C342801D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1F1EAF-4D1D-4200-B264-35A4C342801D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1F1EAF-4D1D-4200-B264-35A4C342801D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1F1EAF-4D1D-4200-B264-35A4C342801D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1F1EAF-4D1D-4200-B264-35A4C342801D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA7B56E-0FB8-4541-B3DD-E5A3B8DAA111}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\bin\Debug\Backtrack_14.exe.config
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\bin\Debug\Backtrack_14.exe
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\bin\Debug\Backtrack_14.pdb
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.csprojAssemblyReference.cache
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.MainForm.resources
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.PointForm.resources
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.Properties.Resources.resources
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.csproj.GenerateResource.cache
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.csproj.CoreCompileInputs.cache
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.exe
+C:\Users\Denvormine\source\repos\Backtrack_14\Backtrack_14\obj\Debug\Backtrack_14.pdb
